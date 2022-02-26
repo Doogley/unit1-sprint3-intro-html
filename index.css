@@ -86,10 +86,7 @@ header nav {
   margin: 0 0 10px 0;
 }
 
-/*======= Create a selector for the address tag in the contact-section class to have the following styles:
-   line-height: 2;
-*/
-
+/*======= Create a selector for the address tag in the contact-section class to have the following styles:*/
 footer {
   width: 100%;
   background: #F87B99;
